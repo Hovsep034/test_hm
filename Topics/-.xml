@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="Movsisyan" modified="2024-08-16T16:34:17.966+03:00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2024-08-16T16:56:23.073+03:00" lasteditedby="Movsisyan" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>тестированиелыирс роиывлоатывсывыама</title>
   <body>
-    <header><para styleclass="Heading1">тестированиелыирс роиывлоатывсывыама</para></header>
-    <para styleclass="Normal">Enter topic text here.</para>
+    <header>
+      <para styleclass="Heading1">тестированиелыирс роиывлоатывсывыама</para>
+    </header>
+    <para styleclass="Normal">Enter topic text here.<br/>тест ылвиуоуолуйлосцйлосйцоукашукйруйк</para>
   </body>
 </topic>
